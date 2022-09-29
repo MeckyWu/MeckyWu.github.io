@@ -30,18 +30,18 @@ My research interest covers various aspects of machine learning theory, includin
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-text' markdown="1"> 
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Adaptive Sampling for Heterogeneous Rank Aggregation from Noisy Pairwise Comparisons](https://proceedings.mlr.press/v151/wu22f/wu22f.pdf)
+**Yue Wu\***, Tao Jin\*, Hao Lou, Pan Xu, Farzad Farnoud, Quanquan Gu
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&user=kSQ1mLYAAAAJ&citation_for_view=kSQ1mLYAAAAJ:UeHWp8X0CEIC) <strong><span class='show_paper_citations' data='kSQ1mLYAAAAJ:UeHWp8X0CEIC'></span></strong>
+- We proposed an algorithm to address the heterogeneity in users for rank aggregation. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Adaptive Sampling for Heterogeneous Rank Aggregation from Noisy Pairwise Comparisons](https://proceedings.mlr.press/v151/wu22f/wu22f.pdf),
+**Yue Wu\***, Tao Jin\*, Hao Lou, Pan Xu, Farzad Farnoud, Quanquan Gu, **AISTATS 2022**
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
