@@ -29,7 +29,7 @@ My research interest covers various aspects of machine learning theory, includin
  
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AISTATS 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
 
 [Adaptive Sampling for Heterogeneous Rank Aggregation from Noisy Pairwise Comparisons](https://proceedings.mlr.press/v151/wu22f/wu22f.pdf)
