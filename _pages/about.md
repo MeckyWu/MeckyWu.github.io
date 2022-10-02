@@ -20,7 +20,7 @@ redirect_from:
 I am a fourth-year Ph.D. student at [Department of Computer Science](https://www.cs.ucla.edu/), [University of California, Los Angeles (UCLA)](https://www.ucla.edu/), advised by Prof. [Quanquan Gu](http://web.cs.ucla.edu/~qgu/index.html). 
 Previously, I earned my Bachelor of Science from EECS at Peking University *summa cum laude*, where I was very fortunate to be advised by Prof. [Liwei Wang](http://www.liweiwang-pku.com).
 
-My research interest covers various aspects of machine learning theory, including deep learning and reinforcement learing. You can find my curriculum vitae [here](https://github.com/MeckyWu/MeckyWu.github.io/blob/10faa269a996ec24e59c97e13d2f0938bed88936/CV_YUE%20WU.pdf).
+My research interest covers various aspects of machine learning theory, including deep learning and reinforcement learing. You can find my curriculum vitae [here](https://username.github.io/folder/document.pdf).
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
