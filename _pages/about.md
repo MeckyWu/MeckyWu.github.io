@@ -57,7 +57,7 @@ Zixiang Chen, Yihe Deng, **Yue Wu**, Quanquan Gu, Yuanzhi Li
 - [Towards Understanding the Spectral Bias of Deep Learning](https://arxiv.org/pdf/1912.01198), **IJCAI 2021**  
 Yuan Cao\*, Zhiying Fang\*, **Yue Wu\***, Dingxuan Zhou, Quanquan Gu
 
-- [To What Extent Do Different Neural Networks Learn the Same Representation: A Neuron Activation Subspace Match Approach](https://proceedings.neurips.cc/paper/2018/file/5fc34ed307aac159a30d81181c99847e-Paper.pdf), **NeurIPS 2019 Spotlight**
+- [To What Extent Do Different Neural Networks Learn the Same Representation: A Neuron Activation Subspace Match Approach](https://proceedings.neurips.cc/paper/2018/file/5fc34ed307aac159a30d81181c99847e-Paper.pdf), **NeurIPS 2019 Spotlight**  
 Lunjia Hu, Jiayuan Gu, **Yue Wu**, Zhiqiang Hu, Liwei Wang
 
 # 🎖 Honors and Awards
