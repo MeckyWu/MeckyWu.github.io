@@ -40,8 +40,7 @@ My research interest covers various aspects of machine learning theory, includin
 </div> -->
 
 - [Active Ranking without Strong Stochastic Transitivity](),  **NeurIPS 2022**
-
-Hao Lou, Tao Jin, **Yue Wu**, Pan Xu, Quanquan Gu, Farzad Farnoud 
+  Hao Lou, Tao Jin, **Yue Wu**, Pan Xu, Quanquan Gu, Farzad Farnoud 
 
 - [Towards Understanding the Mixture-of-Experts Layer in Deep Learning](https://arxiv.org/pdf/2208.02813), **NeurIPS 2022**
 
