@@ -64,7 +64,7 @@ Lunjia Hu, Jiayuan Gu, **Yue Wu**, Zhiqiang Hu, Liwei Wang
 - *2018* National Scholarship, Peking University
  
 # 📖 Educations
-- *2019.09 - 2022.10* Ph.D. Computer Science, University of California, Los Angeles, Advisor: Quanquan Gu,
+- *2019.09 - now* Ph.D. Computer Science, University of California, Los Angeles, Advisor: Quanquan Gu,
 - *2015.09 - 2019.06* B.Sc. Machine Intelligence, Peking University, China
 
 <!-- # 💬 Invited Talks
