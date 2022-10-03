@@ -22,14 +22,13 @@ Previously, I earned my Bachelor of Science from EECS at Peking University *summ
 
 My research interest covers various aspects of machine learning theory, including deep learning and reinforcement learing. You can find my curriculum vitae [here](https://raw.githubusercontent.com/MeckyWu/MeckyWu.github.io/main/pdf/CV_YUE%20WU.pdf).
 
-<!-- # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
- -->
+# 🔥 News
+- *2022.09*: &nbsp;🎉🎉 2 papers accepted to NeurIPS 2022, New Orlean. 
+
  
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AISTATS 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AISTATS 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
 
 [Adaptive Sampling for Heterogeneous Rank Aggregation from Noisy Pairwise Comparisons](https://proceedings.mlr.press/v151/wu22f/wu22f.pdf)
@@ -38,22 +37,28 @@ My research interest covers various aspects of machine learning theory, includin
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&user=kSQ1mLYAAAAJ&citation_for_view=kSQ1mLYAAAAJ:UeHWp8X0CEIC) <strong><span class='show_paper_citations' data='kSQ1mLYAAAAJ:UeHWp8X0CEIC'></span></strong>
 - We proposed an algorithm to address the heterogeneity in users for rank aggregation. 
 </div>
-</div>
+</div> -->
 
 - [Adaptive Sampling for Heterogeneous Rank Aggregation from Noisy Pairwise Comparisons](https://proceedings.mlr.press/v151/wu22f/wu22f.pdf),
 **Yue Wu\***, Tao Jin\*, Hao Lou, Pan Xu, Farzad Farnoud, Quanquan Gu, **AISTATS 2022**
 
-<!-- # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
- -->
-<!-- # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+Towards Understanding the Spectral Bias of Deep Learning(IJCAI’21)YuanCao*, Zhiying Fang*, Yue Wu*, Dingxuan Zhou, Quanquan Gu.  •
+A Finite-Time Analysis of Two Time-Scale Actor-Critic Methods(NeurIPS’20)Yue Wu, Weitong Zhang, Pan Xu, Quanquan Gu.•
+Nearly Minimax Optimal Regret for Learning Infinite-horizon Average-reward MDPs with Linear Function Approximation(AISTATS’22)Yue Wu, Dongruo Zhou, Quanquan Gu.
+
+To What Extent Do Different Neural Networks Learn the Same Representation: A Neuron Activation Subspace Match Approach (NeurIPS’18) Lunjia Hu, Jiayuan Gu, Yue Wu, Zhiqiang Hu, Liwei Wang.
+
+# 🎖 Honors and Awards
+- *2018* National Scholarship, Peking University
+ 
+# 📖 Educations
+- *2019.09 - 2022.10* Ph.D. Computer Science, University of California, Los Angeles, Advisor: Quanquan Gu,
+- *2015.09 - 2019.06* B.Sc. Machine Intelligence, Peking University, China
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
  -->
+ 
 # 💻 Internships
 - *202.06 - 2022.09*, [NEC Laboratories America](https://www.nec-labs.com/), Princeton, New Jersey.
