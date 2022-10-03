@@ -39,19 +39,19 @@ My research interest covers various aspects of machine learning theory, includin
 </div>
 </div> -->
 
-- [Active Ranking without Strong Stochastic Transitivity](),  **NeurIPS 2022**  
+- [Active Ranking without Strong Stochastic Transitivity](),  **NeurIPS 2022**
 
 Hao Lou, Tao Jin, **Yue Wu**, Pan Xu, Quanquan Gu, Farzad Farnoud 
 
-- [Towards Understanding the Mixture-of-Experts Layer in Deep Learning](https://arxiv.org/pdf/2208.02813), **NeurIPS 2022**  
+- [Towards Understanding the Mixture-of-Experts Layer in Deep Learning](https://arxiv.org/pdf/2208.02813), **NeurIPS 2022**
 
 Zixiang Chen, Yihe Deng, **Yue Wu**, Quanquan Gu, Yuanzhi Li
 
-- [Adaptive Sampling for Heterogeneous Rank Aggregation from Noisy Pairwise Comparisons](https://proceedings.mlr.press/v151/wu22f/wu22f.pdf), **AISTATS 2022**  
+- [Adaptive Sampling for Heterogeneous Rank Aggregation from Noisy Pairwise Comparisons](https://proceedings.mlr.press/v151/wu22f/wu22f.pdf), **AISTATS 2022**
 
 **Yue Wu\***, Tao Jin\*, Hao Lou, Pan Xu, Farzad Farnoud, Quanquan Gu
 
-- [Nearly Minimax Optimal Regret for Learning Infinite-horizon Average-reward MDPs with Linear Function Approximation](https://proceedings.mlr.press/v151/wu22a/wu22a.pdf), **AISTATS 2022**  
+- [Nearly Minimax Optimal Regret for Learning Infinite-horizon Average-reward MDPs with Linear Function Approximation](https://proceedings.mlr.press/v151/wu22a/wu22a.pdf), **AISTATS 2022**
 
 **Yue Wu**, Dongruo Zhou, Quanquan Gu, 
 
@@ -59,11 +59,11 @@ Zixiang Chen, Yihe Deng, **Yue Wu**, Quanquan Gu, Yuanzhi Li
 
 **Yue Wu**, Weitong Zhang, Pan Xu, Quanquan Gu, 
 
-- [Towards Understanding the Spectral Bias of Deep Learning](https://arxiv.org/pdf/1912.01198), **IJCAI 2021**  
+- [Towards Understanding the Spectral Bias of Deep Learning](https://arxiv.org/pdf/1912.01198), **IJCAI 2021**
 
 Yuan Cao\*, Zhiying Fang\*, **Yue Wu\***, Dingxuan Zhou, Quanquan Gu
 
-- [To What Extent Do Different Neural Networks Learn the Same Representation: A Neuron Activation Subspace Match Approach](https://proceedings.neurips.cc/paper/2018/file/5fc34ed307aac159a30d81181c99847e-Paper.pdf), **NeurIPS 2019 Spotlight**  
+- [To What Extent Do Different Neural Networks Learn the Same Representation: A Neuron Activation Subspace Match Approach](https://proceedings.neurips.cc/paper/2018/file/5fc34ed307aac159a30d81181c99847e-Paper.pdf), **NeurIPS 2019 Spotlight**
 
 Lunjia Hu, Jiayuan Gu, **Yue Wu**, Zhiqiang Hu, Liwei Wang
 
