@@ -60,17 +60,26 @@ Yuan Cao\*, Zhiying Fang\*, **Yue Wu\***, Dingxuan Zhou, Quanquan Gu
 - [To What Extent Do Different Neural Networks Learn the Same Representation: A Neuron Activation Subspace Match Approach](https://proceedings.neurips.cc/paper/2018/file/5fc34ed307aac159a30d81181c99847e-Paper.pdf), **NeurIPS 2019 Spotlight**  
 Lunjia Hu, Jiayuan Gu, **Yue Wu**, Zhiqiang Hu, Liwei Wang
 
-# 🎖 Honors and Awards
-- *2018* National Scholarship, Peking University
- 
-# 📖 Educations
+
+# 📖 Teaching
+- *2021 Winter* Teaching Assistant, UCLA CS161: [Introduction to Artificial Intelligence](https://uclaml.github.io/CS161-Winter2021/)
+- *2022 Winter* Teaching Assistant, UCLA CS161: [Introduction to Artificial Intelligence](https://uclaml.github.io/CS161-Winter2022/)
+
+# 💬 Academic Service
+- Reviewers of NeurIPS, ICML, ICLR, AISTATS, AAAI, IJCAI and other conferences/journals in machine learning/data mining.
+- Senior PC members of AAAI'23
+
+<!-- # 🎖 Honors and Awards
+- *2018* National Scholarship, Peking University -->
+
+<!-- # 📖 Educations
 - *2019.09 - now* Ph.D. Computer Science, University of California, Los Angeles, Advisor: Quanquan Gu,
-- *2015.09 - 2019.06* B.Sc. Machine Intelligence, Peking University, China
+- *2015.09 - 2019.06* B.Sc. Machine Intelligence, Peking University, China -->
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
  -->
  
-# 💻 Internships
-- *202.06 - 2022.09*, [NEC Laboratories America](https://www.nec-labs.com/), Princeton, New Jersey.
+<!-- # 💻 Internships
+- *202.06 - 2022.09*, [NEC Laboratories America](https://www.nec-labs.com/), Princeton, New Jersey. -->
