@@ -40,10 +40,10 @@ My research interest covers various aspects of machine learning theory, includin
 </div> -->
 
 
-- [Personalized Federated Learning under Mixture of Distributions](https://arxiv.org/pdf/2305.01068), **ICML 2023**
+- [Personalized Federated Learning under Mixture of Distributions](https://arxiv.org/pdf/2305.01068), **ICML 2023**  
 **Yue Wu**, Shuaicheng Zhang, Wenchao Yu, Yanchi Liu, Quanquan Gu, Dawei Zhou, Haifeng Chen, Wei Cheng
 
-- [Uniform-PAC Guarantees for Model-Based RL with Bounded Eluder Dimension](), **UAI 2023**
+- [Uniform-PAC Guarantees for Model-Based RL with Bounded Eluder Dimension](), **UAI 2023**  
 **Yue Wu\***, Jiafan He\*, Quanquan Gu
 
 - [Active Ranking without Strong Stochastic Transitivity](https://proceedings.neurips.cc/paper_files/paper/2022/file/020e313d40a7c060ed07a10cef287750-Paper-Conference.pdf),  **NeurIPS 2022**  
