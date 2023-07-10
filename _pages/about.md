@@ -23,6 +23,8 @@ Previously, I earned my Bachelor of Science from EECS at Peking University *summ
 My research interest covers various aspects of machine learning theory, including deep learning and reinforcement learing. You can find my curriculum vitae [here](https://raw.githubusercontent.com/MeckyWu/MeckyWu.github.io/main/pdf/CV_YUE%20WU.pdf).
 
 # 🔥 News
+
+- *2023.07*: &nbsp;🎉🎉 1 paper accepted to ICML 2023, Hawaii. 
 - *2022.09*: &nbsp;🎉🎉 2 papers accepted to NeurIPS 2022, New Orlean. 
 
  
