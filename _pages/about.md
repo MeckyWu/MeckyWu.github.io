@@ -26,6 +26,7 @@ My research interest covers various aspects of machine learning theory, includin
 
 # 🔥 News
 
+- *2024.01*: &nbsp;🎉🎉 2 papers accepted to ICLR 2024, Vienna. 
 - *2023.08*: &nbsp; It is my great honor to have been awarded the UCLA Dissertation Year Fellowship! 
 - *2023.07*: &nbsp;🎉🎉 1 paper accepted to ICML 2023, Hawaii. 
 - *2022.09*: &nbsp;🎉🎉 2 papers accepted to NeurIPS 2022, New Orlean. 
