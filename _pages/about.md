@@ -45,6 +45,13 @@ My research interest covers various aspects of machine learning theory, includin
 </div> -->
 
 
+
+- [Variance-Aware Regret Bounds for Stochastic Contextual Dueling Bandits](https://arxiv.org/pdf/2310.00968), **ICLR 2024**  
+Qiwei Di, Tao Jin, **Yue Wu**, Heyang Zhao, Farzad Farnoud, Quanquan Gu
+
+- [DNA-GPT: Divergent N-Gram Analysis for Training-Free Detection of GPT-Generated Text](https://arxiv.org/pdf/2305.17359), **ICLR 2024**  
+Xianjun Yang, Wei Cheng, **Yue Wu**, Linda Petzold, William Yang Wang, Haifeng Chen
+
 - [Personalized Federated Learning under Mixture of Distributions](https://arxiv.org/pdf/2305.01068), **ICML 2023**  
 **Yue Wu**, Shuaicheng Zhang, Wenchao Yu, Yanchi Liu, Quanquan Gu, Dawei Zhou, Haifeng Chen, Wei Cheng
 
