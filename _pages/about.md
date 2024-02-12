@@ -22,7 +22,6 @@ Previously, I earned my Bachelor of Science from EECS at Peking University *summ
 
 My research interest covers various aspects of machine learning theory, including deep learning and reinforcement learning. You can find my curriculum vitae [here](https://raw.githubusercontent.com/MeckyWu/MeckyWu.github.io/main/pdf/CV.pdf).
 
-<span style="color:red"> <b>I’m on the academia job market this year 2024! Feel free to reach out to me if you are interested in my research! </b> </span>.
 
 # 🔥 News
 
