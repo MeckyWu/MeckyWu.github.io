@@ -25,7 +25,8 @@ My research interest covers various aspects of machine learning theory, includin
 
 # 🔥 News
 
-- *2024.01*: &nbsp;🎉🎉 2 papers accepted to ICLR 2024, Vienna. 
+- *2024.05*: &nbsp;🎉🎉 2 papers accepted to ICML 2024. 
+- *2024.01*: &nbsp;🎉🎉 2 papers accepted to ICLR 2024. 
 - *2023.08*: &nbsp; It is my great honor to have been awarded the UCLA Dissertation Year Fellowship! 
 - *2023.07*: &nbsp;🎉🎉 1 paper accepted to ICML 2023, Hawaii. 
 - *2022.09*: &nbsp;🎉🎉 2 papers accepted to NeurIPS 2022, New Orlean. 
@@ -45,6 +46,11 @@ My research interest covers various aspects of machine learning theory, includin
 </div> -->
 
 
+- [Borda Regret Minimization for Generalized Linear Dueling Bandits](https://arxiv.org/pdf/2303.08816), **ICML 2024**  
+**Yue Wu**, Tao Jin, Qiwei Di, Hao Lou, Farzad Farnoud, Quanquan Gu
+
+- [Protein Conformation Generation via Force-Guided SE (3) Diffusion Models](https://arxiv.org/pdf/2403.14088), **ICML 2024**  
+Yan Wang, Lihao Wang, Yuning Shen, Yiqun Wang, Huizhuo Yuan, **Yue Wu**, Quanquan Gu
 
 - [Variance-Aware Regret Bounds for Stochastic Contextual Dueling Bandits](https://arxiv.org/pdf/2310.00968), **ICLR 2024**  
 Qiwei Di, Tao Jin, **Yue Wu**, Heyang Zhao, Farzad Farnoud, Quanquan Gu
