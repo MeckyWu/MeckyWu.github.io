@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a last-year Ph.D. student at [Department of Computer Science](https://www.cs.ucla.edu/), [University of California, Los Angeles (UCLA)](https://www.ucla.edu/), advised by Prof. [Quanquan Gu](http://web.cs.ucla.edu/~qgu/index.html). 
+I am a final-year Ph.D. student at [Department of Computer Science](https://www.cs.ucla.edu/), [University of California, Los Angeles (UCLA)](https://www.ucla.edu/), advised by Prof. [Quanquan Gu](http://web.cs.ucla.edu/~qgu/index.html). 
 Previously, I earned my Bachelor of Science from EECS at Peking University *summa cum laude*, where I was very fortunate to be advised by Prof. [Liwei Wang](http://www.liweiwang-pku.com).
 
 My research interest covers various aspects of machine learning theory, including deep learning and reinforcement learning. You can find my curriculum vitae [here](https://raw.githubusercontent.com/MeckyWu/MeckyWu.github.io/main/pdf/CV.pdf).
