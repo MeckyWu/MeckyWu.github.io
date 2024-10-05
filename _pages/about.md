@@ -1,50 +1,28 @@
----
-permalink: /
-title: ""
-excerpt: ""
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
-I am a final-year Ph.D. student at [Department of Computer Science](https://www.cs.ucla.edu/), [University of California, Los Angeles (UCLA)](https://www.ucla.edu/), advised by Prof. [Quanquan Gu](http://web.cs.ucla.edu/~qgu/index.html). 
-Previously, I earned my Bachelor of Science from EECS at Peking University *summa cum laude*, where I was very fortunate to be advised by Prof. [Liwei Wang](http://www.liweiwang-pku.com).
+I am a postdoctoral research fellow at [AI^2](https://invent.ai.princeton.edu/about), [Princeton AI Lab](https://ai.princeton.edu/ai-lab), working on the principled understanding of large language models and their application to engineering including design and control. I work closely with Prof. [Mengdi Wang](https://ece.princeton.edu/people/mengdi-wang) at Princeton.  
 
-My research interest covers various aspects of machine learning theory, including deep learning and reinforcement learning. You can find my curriculum vitae [here](https://raw.githubusercontent.com/MeckyWu/MeckyWu.github.io/main/pdf/CV.pdf).
+Previously, I earned my Ph.D. in Computer Science from [University of California, Los Angeles (UCLA)](https://www.ucla.edu/), where I was advised by Prof. [Quanquan Gu](http://web.cs.ucla.edu/~qgu/index.html). Before that, I earned my Bachelor of Science from EECS at Peking University *summa cum laude*, where I was very fortunate to be advised by Prof. [Liwei Wang](http://www.liweiwang-pku.com).
 
+My research interest covers various aspects of machine learning. Currently, I am particularly interested in applying insights from reinforcement learning and control theory to LLM training and inference, in the context of alignment and reasoning. You can find my curriculum vitae [here](https://raw.githubusercontent.com/MeckyWu/MeckyWu.github.io/main/pdf/CV.pdf).
 
 # 🔥 News
 
+- *2024.06-09*: This summer, I had an internship at Meta Gen AI, where I worked on LLM alignment and reward modeling. 
 - *2024.05*: &nbsp;🎉🎉 2 papers accepted to ICML 2024. 
 - *2024.01*: &nbsp;🎉🎉 2 papers accepted to ICLR 2024. 
 - *2023.08*: &nbsp; It is my great honor to have been awarded the UCLA Dissertation Year Fellowship! 
 - *2023.07*: &nbsp;🎉🎉 1 paper accepted to ICML 2023, Hawaii. 
-- *2022.09*: &nbsp;🎉🎉 2 papers accepted to NeurIPS 2022, New Orlean. 
+- *2022.09*: &nbsp;🎉🎉 2 papers accepted to NeurIPS 2022, New Orleans. 
 
- 
-# 📝 Publications 
+# 📝 Publications & Preprints
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AISTATS 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> 
 
-[Adaptive Sampling for Heterogeneous Rank Aggregation from Noisy Pairwise Comparisons](https://proceedings.mlr.press/v151/wu22f/wu22f.pdf)
-**Yue Wu\***, Tao Jin\*, Hao Lou, Pan Xu, Farzad Farnoud, Quanquan Gu
+- [General Preference Modeling with Preference Representations for Aligning Language Models](https://arxiv.org/abs/2410.02197), **preprint**  
+Yifan Zhang, Ge Zhang, **Yue Wu**, Kangping Xu, Quanquan Gu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&user=kSQ1mLYAAAAJ&citation_for_view=kSQ1mLYAAAAJ:UeHWp8X0CEIC) <strong><span class='show_paper_citations' data='kSQ1mLYAAAAJ:UeHWp8X0CEIC'></span></strong>
-- We proposed an algorithm to address the heterogeneity in users for rank aggregation. 
-</div>
-</div> -->
-
+- [Self-Play Preference Optimization for Language Model Alignment](https://arxiv.org/abs/2405.00675), **preprint**  
+**Yue Wu**, Zhiqing Sun, Huizhuo Yuan, Kaixuan Ji, Yiming Yang, Quanquan Gu
 
 - [Borda Regret Minimization for Generalized Linear Dueling Bandits](https://arxiv.org/pdf/2303.08816), **ICML 2024**  
 **Yue Wu**, Tao Jin, Qiwei Di, Hao Lou, Farzad Farnoud, Quanquan Gu
@@ -85,26 +63,10 @@ Yuan Cao\*, Zhiying Fang\*, **Yue Wu\***, Dingxuan Zhou, Quanquan Gu
 - [To What Extent Do Different Neural Networks Learn the Same Representation: A Neuron Activation Subspace Match Approach](https://proceedings.neurips.cc/paper/2018/file/5fc34ed307aac159a30d81181c99847e-Paper.pdf), **NeurIPS 2019 Spotlight**  
 Lunjia Hu, Jiayuan Gu, **Yue Wu**, Zhiqiang Hu, Liwei Wang
 
-
 # 📖 Teaching
 - *2021 Winter* Teaching Assistant, UCLA CS161: [Introduction to Artificial Intelligence](https://uclaml.github.io/CS161-Winter2021/)
 - *2022 Winter* Teaching Assistant, UCLA CS161: [Introduction to Artificial Intelligence](https://uclaml.github.io/CS161-Winter2022/)
 
 # 💬 Academic Service
-- Reviewers of NeurIPS, ICML, ICLR, AISTATS, AAAI, IJCAI and other conferences/journals in machine learning/data mining.
+- Reviewers of NeurIPS, ICML, ICLR, AISTATS, AAAI, IJCAI, and other conferences/journals in machine learning/data mining.
 - Senior PC members of AAAI'23
-
-<!-- # 🎖 Honors and Awards
-- *2018* National Scholarship, Peking University -->
-
-<!-- # 📖 Educations
-- *2019.09 - now* Ph.D. Computer Science, University of California, Los Angeles, Advisor: Quanquan Gu,
-- *2015.09 - 2019.06* B.Sc. Machine Intelligence, Peking University, China -->
-
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
- -->
- 
-<!-- # 💻 Internships
-- *202.06 - 2022.09*, [NEC Laboratories America](https://www.nec-labs.com/), Princeton, New Jersey. -->
