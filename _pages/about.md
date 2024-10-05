@@ -1,3 +1,19 @@
+---
+permalink: /
+title: ""
+excerpt: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+
 <span class='anchor' id='about-me'></span>
 
 I am a postdoctoral research fellow at [AI^2](https://invent.ai.princeton.edu/about), [Princeton AI Lab](https://ai.princeton.edu/ai-lab), working on the principled understanding of large language models and their application to engineering including design and control. I work closely with Prof. [Mengdi Wang](https://ece.princeton.edu/people/mengdi-wang) at Princeton.  
