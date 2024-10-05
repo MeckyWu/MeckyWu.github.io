@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yue Wu"
   avatar           : "images/head.png"
-  bio              : "Ph.D. candidate"
-  location         : "Westwood, California"
+  bio              : "Postdoc at Princeton AI Lab"
+  location         : "Princeton, New Jersey"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=kSQ1mLYAAAAJ"
-  email            : "ywu@cs.ucla.edu"
+  email            : "frankwupku"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
