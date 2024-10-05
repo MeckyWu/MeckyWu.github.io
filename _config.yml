@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yue Wu's Homepage"
-description              : ""AI Researcher at Princeton AI Lab" "
+description              : "AI Researcher at Princeton AI Lab"
 repository               : "MeckyWu/MeckyWu.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yue Wu"
   avatar           : "images/head.png"
-  bio              : 
+  bio              : "Postdoctoral Research Fellow"
   location         : "Princeton, New Jersey"
   employer         :
   pubmed           : 
