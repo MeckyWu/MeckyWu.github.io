@@ -35,10 +35,10 @@ My research interest covers various aspects of machine learning. Currently, I am
 
 
 - [General Preference Modeling with Preference Representations for Aligning Language Models](https://arxiv.org/abs/2410.02197), **preprint**  
-Yifan Zhang, Ge Zhang, **Yue Wu**, Kangping Xu, Quanquan Gu
+Yifan Zhang\*, Ge Zhang\*, **Yue Wu\***, Kangping Xu, Quanquan Gu
 
 - [Self-Play Preference Optimization for Language Model Alignment](https://arxiv.org/abs/2405.00675), **preprint**  
-**Yue Wu**, Zhiqing Sun, Huizhuo Yuan, Kaixuan Ji, Yiming Yang, Quanquan Gu
+**Yue Wu\***, Zhiqing Sun\*, Huizhuo Yuan\*, Kaixuan Ji, Yiming Yang, Quanquan Gu
 
 - [Borda Regret Minimization for Generalized Linear Dueling Bandits](https://arxiv.org/pdf/2303.08816), **ICML 2024**  
 **Yue Wu**, Tao Jin, Qiwei Di, Hao Lou, Farzad Farnoud, Quanquan Gu
