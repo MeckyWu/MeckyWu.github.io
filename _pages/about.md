@@ -20,7 +20,7 @@ I am a postdoctoral research fellow at [AI^2](https://invent.ai.princeton.edu/ab
 
 Previously, I earned my Ph.D. in Computer Science from [University of California, Los Angeles (UCLA)](https://www.ucla.edu/), where I was advised by Prof. [Quanquan Gu](http://web.cs.ucla.edu/~qgu/index.html). Before that, I earned my Bachelor of Science from EECS at Peking University *summa cum laude*, where I was very fortunate to be advised by Prof. [Liwei Wang](http://www.liweiwang-pku.com).
 
-My research interest covers various aspects of machine learning. Currently, I am particularly interested in applying insights from reinforcement learning and control theory to LLM training and inference, in the context of alignment and reasoning. You can find my curriculum vitae [here](https://raw.githubusercontent.com/MeckyWu/MeckyWu.github.io/main/pdf/CV.pdf).
+My research interest covers various aspects of machine learning. Currently, I am particularly interested in applying insights from reinforcement learning and control theory to LLM training and inference, in the context of alignment and reasoning. [**Curriculum Vitae**](https://raw.githubusercontent.com/MeckyWu/MeckyWu.github.io/main/pdf/CV_Yue_Wu.pdf).
 
 # 🔥 News
 
