@@ -39,7 +39,7 @@ My research interest covers various aspects of machine learning. Currently, I am
 **Yue Wu\***, Zhiqing Sun\*, Huizhuo Yuan\*, Kaixuan Ji, Yiming Yang, Quanquan Gu
 
 - [A Common Pitfall of Margin-based Language Model Alignment: Gradient Entanglement](https://arxiv.org/abs/2410.13828), **ICLR 2025**  
-Hui Yuan\*, Yifan Zeng\*, **Yue Wu\***, Huazheng Wang, Mengdi Wang, Leqi Liu
+Hui Yuan\*, Yifan Zeng\*, **Yue Wu\***, Huazheng Wang, Mengdi Wang, Leqi Liu\*
 
 - [General Preference Modeling with Preference Representations for Aligning Language Models](https://arxiv.org/abs/2410.02197), **preprint**  
 Yifan Zhang\*, Ge Zhang\*, **Yue Wu\***, Kangping Xu, Quanquan Gu
