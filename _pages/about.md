@@ -24,21 +24,25 @@ My research interest covers various aspects of machine learning. Currently, I am
 
 # 🔥 News
 
+- *2025.01*: &nbsp;🎉🎉 3 papers accepted to ICLR 2025. 
 - *2024.06-09*: This summer, I had an internship at Meta Gen AI, where I worked on LLM alignment and reward modeling. 
 - *2024.05*: &nbsp;🎉🎉 2 papers accepted to ICML 2024. 
 - *2024.01*: &nbsp;🎉🎉 2 papers accepted to ICLR 2024. 
-- *2023.08*: &nbsp; It is my great honor to have been awarded the UCLA Dissertation Year Fellowship! 
+- *2023.08*: &nbsp; I am honored to have been awarded the UCLA Dissertation Year Fellowship! 
 - *2023.07*: &nbsp;🎉🎉 1 paper accepted to ICML 2023, Hawaii. 
 - *2022.09*: &nbsp;🎉🎉 2 papers accepted to NeurIPS 2022, New Orleans. 
 
 # 📝 Publications & Preprints
 
 
+- [Self-Play Preference Optimization for Language Model Alignment](https://arxiv.org/abs/2405.00675), **ICLR 2025**  
+**Yue Wu\***, Zhiqing Sun\*, Huizhuo Yuan\*, Kaixuan Ji, Yiming Yang, Quanquan Gu
+
+- [A Common Pitfall of Margin-based Language Model Alignment: Gradient Entanglement](https://arxiv.org/abs/2410.13828), **ICLR 2025**  
+Hui Yuan\*, Yifan Zeng\*, **Yue Wu\***, Huazheng Wang, Mengdi Wang, Leqi Liu
+
 - [General Preference Modeling with Preference Representations for Aligning Language Models](https://arxiv.org/abs/2410.02197), **preprint**  
 Yifan Zhang\*, Ge Zhang\*, **Yue Wu\***, Kangping Xu, Quanquan Gu
-
-- [Self-Play Preference Optimization for Language Model Alignment](https://arxiv.org/abs/2405.00675), **preprint**  
-**Yue Wu\***, Zhiqing Sun\*, Huizhuo Yuan\*, Kaixuan Ji, Yiming Yang, Quanquan Gu
 
 - [Borda Regret Minimization for Generalized Linear Dueling Bandits](https://arxiv.org/pdf/2303.08816), **ICML 2024**  
 **Yue Wu**, Tao Jin, Qiwei Di, Hao Lou, Farzad Farnoud, Quanquan Gu
