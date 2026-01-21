@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yue Wu"
   avatar           : "images/head.png"
-  bio              : "Researcher"
+  bio              :
   location         : "Bay Area"
   employer         :
   pubmed           : 
