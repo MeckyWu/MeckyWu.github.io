@@ -16,11 +16,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a postdoctoral research fellow at [AI^2](https://invent.ai.princeton.edu/about), [Princeton AI Lab](https://ai.princeton.edu/ai-lab), working on the principled understanding of large language models and their application to engineering including design and control. I work closely with Prof. [Mengdi Wang](https://ece.princeton.edu/people/mengdi-wang) at Princeton.  
+I am an AI researcher at **Meta Superintelligence (TBD) Lab**, working on large-scale reinforcement learning for frontier language models. Previously, I worked on scaling reinforcement learning at xAI.
 
-Previously, I earned my Ph.D. in Computer Science from [University of California, Los Angeles (UCLA)](https://www.ucla.edu/), where I was advised by Prof. [Quanquan Gu](http://web.cs.ucla.edu/~qgu/index.html). Before that, I earned my Bachelor of Science from EECS at Peking University *summa cum laude*, where I was very fortunate to be advised by Prof. [Liwei Wang](http://www.liweiwang-pku.com).
+Before that, I was a postdoctoral research fellow at [AI^2](https://invent.ai.princeton.edu/about), [Princeton AI Lab](https://ai.princeton.edu/ai-lab), working on the principled understanding of large language models and their application to engineering, including design and control. I worked closely with Prof. [Mengdi Wang](https://ece.princeton.edu/people/mengdi-wang) at Princeton.
 
-My research interest covers various aspects of machine learning. Currently, I am particularly interested in applying insights from reinforcement learning and control theory to LLM training and inference, in the context of alignment and reasoning. [**Curriculum Vitae**](https://raw.githubusercontent.com/MeckyWu/MeckyWu.github.io/main/pdf/CV_Yue_Wu.pdf).
+I earned my Ph.D. in Computer Science from [University of California, Los Angeles (UCLA)](https://www.ucla.edu/), where I was advised by Prof. [Quanquan Gu](http://web.cs.ucla.edu/~qgu/index.html). Before that, I earned my Bachelor of Science from EECS at Peking University *summa cum laude*, where I was very fortunate to be advised by Prof. [Liwei Wang](http://www.liweiwang-pku.com).
+
+[**Curriculum Vitae**](https://raw.githubusercontent.com/MeckyWu/MeckyWu.github.io/main/pdf/CV_Yue_Wu.pdf).
+
 
 # 🔥 News
 
